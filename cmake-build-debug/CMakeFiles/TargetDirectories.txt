@@ -1,0 +1,3 @@
+C:/Users/cocor/CLionProjects/Labos/prg1-e-04-nbre-premiers-Barcocoe/cmake-build-debug/CMakeFiles/prg1_e_04_nbre_premiers_Barcocoe.dir
+C:/Users/cocor/CLionProjects/Labos/prg1-e-04-nbre-premiers-Barcocoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cocor/CLionProjects/Labos/prg1-e-04-nbre-premiers-Barcocoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
