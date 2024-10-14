@@ -1,0 +1,4 @@
+- Mauvais affichage (selon la donnée) est incorrect.
+- En-tête incomplète, il manque une brève définition du module
+- Vous n'avez pas utilisé de constante pour les limites, évitez les magic numbers!
+- Pas de constante pour 'O' et 'N' également, ni pour le nombre de colonnes.
